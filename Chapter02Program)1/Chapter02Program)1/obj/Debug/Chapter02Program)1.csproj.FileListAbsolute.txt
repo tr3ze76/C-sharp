@@ -1,7 +1,0 @@
-C:\ALBERTO VISUAL STUDIO\Chapter02Program)1\Chapter02Program)1\obj\Debug\Chapter02Program)1.csprojAssemblyReference.cache
-C:\ALBERTO VISUAL STUDIO\Chapter02Program)1\Chapter02Program)1\obj\Debug\Chapter02Program)1.csproj.CoreCompileInputs.cache
-C:\ALBERTO VISUAL STUDIO\Chapter02Program)1\Chapter02Program)1\bin\Debug\Chapter02Program)1.exe.config
-C:\ALBERTO VISUAL STUDIO\Chapter02Program)1\Chapter02Program)1\bin\Debug\Chapter02Program)1.exe
-C:\ALBERTO VISUAL STUDIO\Chapter02Program)1\Chapter02Program)1\bin\Debug\Chapter02Program)1.pdb
-C:\ALBERTO VISUAL STUDIO\Chapter02Program)1\Chapter02Program)1\obj\Debug\Chapter02Program)1.exe
-C:\ALBERTO VISUAL STUDIO\Chapter02Program)1\Chapter02Program)1\obj\Debug\Chapter02Program)1.pdb
