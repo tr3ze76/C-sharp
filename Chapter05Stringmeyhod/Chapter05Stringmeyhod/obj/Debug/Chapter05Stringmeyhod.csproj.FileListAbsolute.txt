@@ -1,0 +1,10 @@
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\bin\Debug\Chapter05Stringmeyhod.exe.config
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\bin\Debug\Chapter05Stringmeyhod.exe
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\bin\Debug\Chapter05Stringmeyhod.pdb
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\obj\Debug\Chapter05Stringmeyhod.csprojAssemblyReference.cache
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\obj\Debug\Chapter05Stringmeyhod.Form1.resources
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\obj\Debug\Chapter05Stringmeyhod.Properties.Resources.resources
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\obj\Debug\Chapter05Stringmeyhod.csproj.GenerateResource.cache
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\obj\Debug\Chapter05Stringmeyhod.csproj.CoreCompileInputs.cache
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\obj\Debug\Chapter05Stringmeyhod.exe
+C:\ALBERTO VISUAL STUDIO\Chapter05Stringmeyhod\Chapter05Stringmeyhod\obj\Debug\Chapter05Stringmeyhod.pdb
