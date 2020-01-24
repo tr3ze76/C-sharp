@@ -1,0 +1,10 @@
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\bin\Debug\Chapter08ProgramLetters.exe.config
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\bin\Debug\Chapter08ProgramLetters.exe
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\bin\Debug\Chapter08ProgramLetters.pdb
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\obj\Debug\Chapter08ProgramLetters.csprojAssemblyReference.cache
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\obj\Debug\Chapter08ProgramLetters.Form1.resources
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\obj\Debug\Chapter08ProgramLetters.Properties.Resources.resources
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\obj\Debug\Chapter08ProgramLetters.csproj.GenerateResource.cache
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\obj\Debug\Chapter08ProgramLetters.csproj.CoreCompileInputs.cache
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\obj\Debug\Chapter08ProgramLetters.exe
+C:\ALBERTO VISUAL STUDIO\Chapter08ProgramLetters\Chapter08ProgramLetters\obj\Debug\Chapter08ProgramLetters.pdb
