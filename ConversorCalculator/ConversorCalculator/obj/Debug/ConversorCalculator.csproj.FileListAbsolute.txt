@@ -1,0 +1,10 @@
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\bin\Debug\ConversorCalculator.exe.config
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\bin\Debug\ConversorCalculator.exe
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\bin\Debug\ConversorCalculator.pdb
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\obj\Debug\ConversorCalculator.csprojAssemblyReference.cache
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\obj\Debug\ConversorCalculator.Form1.resources
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\obj\Debug\ConversorCalculator.Properties.Resources.resources
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\obj\Debug\ConversorCalculator.csproj.GenerateResource.cache
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\obj\Debug\ConversorCalculator.csproj.CoreCompileInputs.cache
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\obj\Debug\ConversorCalculator.exe
+C:\ALBERTO VISUAL STUDIO\ConversorCalculator\ConversorCalculator\obj\Debug\ConversorCalculator.pdb
