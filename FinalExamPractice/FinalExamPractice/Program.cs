@@ -136,9 +136,9 @@ namespace FinalExamPractice
 
         static void SolutionProblem4()
         {
-            for (int val1 = 1; val1 <= 122; val1++)
+            for (int val1 = 33; val1 <= 175; val1++)
             {
-                Console.Write(" " + val1 + " = " + (char)val1 + " ","/n");
+                Console.Write(" " + val1 + " = " + (char)val1 + " ");
                 if (val1 % 10 == 0)
                 {
                     Console.WriteLine();
