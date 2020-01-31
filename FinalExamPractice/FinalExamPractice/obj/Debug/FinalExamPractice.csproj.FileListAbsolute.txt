@@ -1,0 +1,7 @@
+C:\ALBERTO VISUAL STUDIO\FinalExamPractice\FinalExamPractice\bin\Debug\FinalExamPractice.exe.config
+C:\ALBERTO VISUAL STUDIO\FinalExamPractice\FinalExamPractice\bin\Debug\FinalExamPractice.exe
+C:\ALBERTO VISUAL STUDIO\FinalExamPractice\FinalExamPractice\bin\Debug\FinalExamPractice.pdb
+C:\ALBERTO VISUAL STUDIO\FinalExamPractice\FinalExamPractice\obj\Debug\FinalExamPractice.csprojAssemblyReference.cache
+C:\ALBERTO VISUAL STUDIO\FinalExamPractice\FinalExamPractice\obj\Debug\FinalExamPractice.csproj.CoreCompileInputs.cache
+C:\ALBERTO VISUAL STUDIO\FinalExamPractice\FinalExamPractice\obj\Debug\FinalExamPractice.exe
+C:\ALBERTO VISUAL STUDIO\FinalExamPractice\FinalExamPractice\obj\Debug\FinalExamPractice.pdb
